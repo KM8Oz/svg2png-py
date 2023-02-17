@@ -1,0 +1,5 @@
+cairosvg
+fastapi
+uvicorn[standard]
+requests
+urllib3[brotli]
